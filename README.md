@@ -1,2 +1,2 @@
 # Sudokugame
-In this project i will solve the sudoku using the backtracking techinque
+In this project i solved the sudoku using the backtracking techinque
